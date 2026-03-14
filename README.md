@@ -12,9 +12,9 @@ Custom styling using CSS
 Static Website with no backend (HTML + CSS only) 
 
 Screenshots(ecommerce website)
-![Homepage](home page.jpeg)
+![Homepage](homepage.jpeg)
 ![icon](icons.jpeg)
-![About us](about us.jpeg)
+![About us](aboutus.jpeg)
 ![products](products.jpeg)
 ![products](products2.jpeg)
 ![products](products3.jpeg)
